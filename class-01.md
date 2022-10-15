@@ -3,6 +3,11 @@
 ### GETTING STARTED
 
 
+**Reflections**
+
+The below information are the foundations of what we will be learning in Code 201, as well as a good recap of what we did on 102. It is important to be already familiar with the below topics in order to get into deeper levels of code.
+
+
 **How does HTTP send data between computers?**
 
 In order for a user to be able to open a website and see its content, once the address is entered on the browser, the latter goes to the DNS (Domain Name System) server, which is like an address book for websites, and finds the real address of the server where the website he or she is trying to open lives on. Then the browser sends an HTTP (Hypertext Transfer Protocol) request message to the server asking to send a copy of the website to the user trying to access it. In order for this to happen there must be an internet connection that uses TCP/IP, which are communication protocols that define how data travels across the internet.
@@ -118,10 +123,29 @@ The < meta > element is used within the head and it can include different kinds 
 *Please note that the < meta > tag is self closing.*
 
 
-### How to start to design a website
+### Miscellaneous
 
-**What is the first step to designing a website?**
+
+**What is the first step to designing a website and what's the most important questions to answer?**
 
 Before you start coding, the first thing you should do is planning ahead the kind of website you would like to have and its functionality. You should first ask yourself *what do I want to accomplish?*.
 
 This is called *project ideation* and is a necessary first step to reach your goal.
+
+
+**Why should you use an < h1 > element over a < span > elemento to display a top level heading?**
+
+The < h1 > element is the top level heading of your page and it has semantic value. You can virtually make pretty much any element look like a top level heading, for example a < span > element, by styling it with a bigger and bolder font, however it wouldn't have a semnatic value.
+
+HTML should be coded to represent the information that will be provided.
+
+
+**Describe two things that require JavaScript in the browser.**
+
+- Animate images and control multimedia.
+- Store useful values inside variables.
+- Running code according to stablished parameters.
+
+**How do you add JavaScript to an HTML document?**
+
+You can add JS with a < script > tag at the end of the < body >.
