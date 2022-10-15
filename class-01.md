@@ -80,26 +80,15 @@ Note that an < article > tag can be broken into different < section > tags and v
 
 A typical website would normally include the following elements:
 
-    1. Header: located at the top of the website, in this section 
-    you can find the title, logo and perhaps a tagline. This usually 
-    stays the same from one webspage to another.
+    1. Header: located at the top of the website, in this section you can find the title, logo and perhaps a tagline. This usually stays the same from one webspage to another.
 
-    2. Navigation bar: here the user normally finds the menu 
-    buttons, links or tabs. Like the header, this content 
-    usually stays the same from one webpage to another.
+    2. Navigation bar: here the user normally finds the menu buttons, links or tabs. Like the header, this content usually stays the same from one webpage to another.
 
-    3. Main content: here the user finds the information that the 
-    webpage will contain, whichever it is. This is the one part of 
-    the website that will definitely vary from page to page.
+    3. Main content: here the user finds the information that the webpage will contain, whichever it is. This is the one part of the website that will definitely vary from page to page.
 
-    4. Sidebar: here one finds links, quotes, ads, etc. The 
-    information in this part is normally related somehow to the 
-    main content. However there are also cases where the user 
-    can find a secondary navigation system. 
+    4. Sidebar: here one finds links, quotes, ads, etc. The information in this part is normally related somehow to the main content. However there are also cases where the user can find a secondary navigation system. 
 
-    5. Footer: this is a strip at the bottom of the page that 
-    normally contains fine print, copyright notices, contact 
-    info, etc.
+    5. Footer: this is a strip at the bottom of the page that normally contains fine print, copyright notices, contact info, etc.
 
 
 **How does metadata influence Search Engine Optimization?**
@@ -113,8 +102,7 @@ It is interesting to use a description that includes keywords relating to the co
 
 The < meta > element is used within the head and it can include different kinds of information:
 
-        This will make your web page capable of displaying any 
-        language: 
+        This will make your web page capable of displaying any language: 
 
         <meta charset="utf-8" /> 
         
@@ -123,10 +111,15 @@ The < meta > element is used within the head and it can include different kinds 
 
         <meta name="author" />
 
-        And this will provide information about the content of 
-        the website:
+        And this will provide information about the content of the website:
 
         <meta content="description" /> 
 
 *Please note that the < meta > tag is self closing.*
 
+
+### How to start to design a website
+
+**What is the first step to designing a website?**
+
+Before you start coding, the first thing you should do 
