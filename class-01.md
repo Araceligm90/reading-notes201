@@ -122,4 +122,6 @@ The < meta > element is used within the head and it can include different kinds 
 
 **What is the first step to designing a website?**
 
-Before you start coding, the first thing you should do 
+Before you start coding, the first thing you should do is planning ahead the kind of website you would like to have and its functionality. You should first ask yourself *what do I want to accomplish?*.
+
+This is called *project ideation* and is a necessary first step to reach your goal.
