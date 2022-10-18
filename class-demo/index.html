@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Class 1 Demo Code</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
@@ -9,7 +10,10 @@
         </header>
         <main>
             <h2>What kind of pizza toppings do you like?</h2>
-            <p>Here are the avaiable toppings:</p>
+            <div>
+                Here are the available toppings:
+                <img src="pizza.png" width="500" length="420" alt="pizza"/>
+            </div>
             <ul>
                 <li>Parma ham</li>
                 <li>Mozzarella</li>
@@ -22,17 +26,42 @@
             
         </footer>
         <script>
+
+            let userName = prompt("What is your name?");
+            alert('Hey ' + userName + '! Nice to meet you!');
+            
             let answer1 = prompt('Do you want onions on your pizza?');
             console.log(answer1);
-            let answer2 = prompt('Do you want parma ham on your pizza?');
-            console.log(answer2);
-            
             // String concatenation 
             alert('You answered ' + answer1 + ' to the onions question');
 
             if (answer1 === 'yes'){
                 prompt('Do you want it raw or cooked?');
+                alert('That is a great choice!');
             }
+
+            if  (answer1 === 'no'){
+                prompt('Are you sure??');
+                alert('I think I will add them anyway!');
+            }
+            let answer2 = prompt('Do you want parma ham on your pizza?');
+            console.log(answer2);
+
+            if (answer2 === 'yes'){
+                alert('I love parma ham too!');
+            }
+
+            if (answer2 === 'no'){
+                alert('I think I will add it too anyway');
+            }
+
+            let answer3 = prompt('What other topping would you like to add?')
+            console.log(answer3);
+            alert('I love ' + answer3 + ' too!');
+
+            let answer4 = prompt('You have one more topping to choose. Write it below!')
+            console.log(answer4);
+            alert('I love all your choices but I actually think I will order pasta. Bye!')
         </script>
     </body>
 
