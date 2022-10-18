@@ -67,7 +67,7 @@ Everything between the curly braces and semicolons.
 Color and padding.
 
 
-### JavsScript
+### JavaScript
 
 
 **What data type is a sequence of text enclosed in single quote marks?**
