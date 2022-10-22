@@ -52,7 +52,7 @@ Numbers, strings, objects and other arrays.
 
 **Is the ‘people’ array a valid JS array? If so, how can I access the values stored? If not, why?**
 
-The 'people' array is not valid. I have checked on Google if an array can contain ‘null’ values, as this specific characteristic has made me hesitate. However I have read both ‘yes’ and ‘no’ answers. So I would say that is the reason why this array is not valid.
+The 'people' array is a valid array because it contains valid data types which are displayed in a correct way. You can access the different elements by specifying the index number.
 
 
 **List 5 shorthand operators for assignment in JS and describe what they do.**
