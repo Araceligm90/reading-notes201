@@ -13,4 +13,4 @@
 
 [Class 2 Reading Notes](class-02.md)
 
-
+[Class 3 Reading Notes](class-03.md)
