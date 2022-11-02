@@ -18,3 +18,5 @@
 [Class 4 Reading Notes](class-04.md)
 
 [Class 5 Reading Notes](class-05.md)
+
+[Class 6 Reading Notes](class-06.md)
