@@ -23,3 +23,4 @@
 
 [Class 7 Reading Notes](class-07.md)
 
+[Class 8 Reading Notes](class-08.md)

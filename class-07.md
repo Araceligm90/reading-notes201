@@ -1,4 +1,4 @@
-# RCLASS 7 READING NOTES
+# CLASS 7 READING NOTES
 
 
 ### Domain Modeling
