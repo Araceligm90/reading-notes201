@@ -25,4 +25,4 @@
 
 [Class 8 Reading Notes](class-08.md)
 
-[Class 8 Reading Notes](class-09.md)
+[Class 9 Reading Notes](class-09.md)
